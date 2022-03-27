@@ -2,3 +2,15 @@
   background-color: lightpink;
   font-family: verdana, sans-serif, "DejaVu Sans";
 }
+.odd oddly.odd{
+font-size: 24px;
+}
+#two{
+color: #0000ff;
+font-size:  36px; 
+}
+#four{
+   background-color: lightgreen;
+   font-size: 24px;
+    font-weight: bold;
+}
