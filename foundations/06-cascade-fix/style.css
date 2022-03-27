@@ -21,4 +21,7 @@ div.text {
   background-color: green;
   color: white;
   font-weight: bold;
-  }
+}
+div.child{
+  color: red;
+}
